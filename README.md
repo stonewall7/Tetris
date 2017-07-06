@@ -1,9 +1,9 @@
 # Tetris (Java)
-##To Play:
+## To Play:
 
 Run 'Tetris.jar'
 
-##Default controls:
+## Default controls:
 
 * Left/Right Arrow keys: Move tetrimino
 
